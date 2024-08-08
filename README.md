@@ -6,5 +6,8 @@ The developers at Elite Scripts have been involved with FiveM since the FiveRebo
 ## Tebex
 https://elitescripts.tebex.io/
 
+## Documentation
+https://elite-scripts.gitbook.io/elite-scripts
+
 ### Help us get better
 We need help with translating our resources. Feel free to create your own translations file and make a pull request. It would mean the world to us!
